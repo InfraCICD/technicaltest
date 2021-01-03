@@ -1,0 +1,1 @@
+alarms_email = "abc.xyz@xyz.com"
